@@ -40,6 +40,8 @@ technical decision changes.
 
 ## Recent work
 
+- The public project was deployed to GitHub Pages at
+  https://georgebraxington.github.io/hyper-arcade/
 - The Player Hub was moved into an accessible sidebar, and Friends & Profiles
   was made easier to find.
 - Profile rows gained direct Add friend / Remove friend buttons while keeping

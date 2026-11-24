@@ -1,5 +1,10 @@
 # Hyper Arcade
 
+## Live website
+
+The public arcade website is available at:
+https://georgebraxington.github.io/hyper-arcade/
+
 ## Put it on a website
 
 `index.html` is the website's home page. It already includes the arcade styles,
